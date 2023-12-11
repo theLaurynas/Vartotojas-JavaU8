@@ -37,7 +37,7 @@ public class Main {
             System.out.print("""
                                         
                     ┌───────────────────────────────────┐
-                    │           MENIU                   │
+                    │           MENU                    │
                     ├───────────────────────────────────┤
                     │ 1 - Ivesti vartotoja              │
                     │ 2 - Pakeisti esama                │
