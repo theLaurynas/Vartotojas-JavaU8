@@ -39,7 +39,7 @@ public class Main {
                     ┌───────────────────────────────────┐
                     │           MEU                    │
                     ├───────────────────────────────────┤
-                    │ 1 - Ivesti vartotoja              │
+                    │ 1 - Įvesti vartotoją              │
                     │ 2 - Pakeisti esama                │
                     │ 3 - Trinti/deaktivuoti            │
                     │ 4 - Spaudinti vartotojus i ekrana │
